@@ -2,7 +2,7 @@ global:
   message: Welcome to Customer Service Prod Environment!!
 server:
   port: 8083
-message: Hello from Prod!
+message: Hello from Customer Prod!
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/cust_prod
